@@ -1,0 +1,26 @@
+# MATLAB editor autosave / backup files
+*.asv
+*.m~
+*.autosave
+*.mlapp.autosave
+
+# MATLAB generated code / caches
+*.mex*
+*.p
+slprj/
+sccprj/
+codegen/
+*.slxc
+
+# Simulink cache
+*.slx.r*
+
+# MATLAB session / crash artifacts
+*.log
+java.log*
+hs_err_pid*
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
